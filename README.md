@@ -181,7 +181,7 @@ Hanging when converting to PDF | You must be connected to the internet for `vita
 
 ## Acknowledgments
 
-1. Page header logo is adapted from images: https://github.com/mitchelloharawild/vitae
+1. Page header logo is adapted from images: [https://github.com/mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae/blob/master/man/figures/logo.png)
 
 [Back to Top](#table-of-contents)
 
