@@ -88,7 +88,7 @@ Open RStudio and install the following packages in this order (dependencies will
 > tinytex::pdflatex("test.tex")
 ```
 
-<a href=".img/test.pdf" download><img src=".img/test.jpg" /></a>
+<a href=".pdf/test.pdf" download><img src=".img/test.jpg" /></a>
 
 ### `vitae` package
 
@@ -132,7 +132,7 @@ Open RStudio and install the following packages in this order (dependencies will
 ### 4. Curriculum Vitae (markdown-cv format)
 * NOTE: "`markdown-cv format`" does not export a PDF
 
-<a href=".pdf/template_markdown-cv.pdf" download><img src=".img/template_markdown-cv.jpg" /></a>
+[![.img/template_markdown-cv.jpg](.img/template_markdown-cv.jpg)](#nolink)
 
 ### 5. Curriculum Vitae (ModernCV format)
 
@@ -160,8 +160,8 @@ Check out other tutorials that dive into customization like this one: https://ww
 
 Description | Link
 --- | ---
-Introduction to R programming | https://github.com/atet/learn/tree/master/programming
-Official `vitae` Github | https://github.com/mitchelloharawild/vitae
+Introduction to R programming | [https://github.com/atet/learn/tree/master/programming](https://github.com/atet/learn/blob/master/programming/README.md#atet--learn--programming)
+Official `vitae` Github | [https://github.com/mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae/blob/master/README.md#vitae-)
 Using `vitae` | https://www.anthonyschmidt.co/post/2022-04-21-make-an-easy-to-maintain-cv-or-resume-using-r
 
 [Back to Top](#table-of-contents)
